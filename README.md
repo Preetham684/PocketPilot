@@ -1,30 +1,58 @@
-# ✈️ PocketPilot
+# PocketPilot
 
-### Spend today. Stay on course.
+**Spend like yourself. Plan like your future self.**
 
-**PocketPilot** is a Cubbie skill that helps students understand what they can safely spend **today** while staying on track for their **future goals**.
+Text Cubbie one question and get a real answer: *can I afford this?*
 
-### 💸 What can it do?
+- Get a **safe-to-spend number** for today
+- See what a purchase does to your **goal date**
+- Get a **morning text** with what's due
+- Turn a trip idea into a **plan in Google Docs**
 
-- **Safe-to-Spend** — Know how much you can safely spend today.
-- **Should I Buy This?** — See how a purchase affects your future goal.
-- **Compare Options** — Buy now, wait, or choose something cheaper.
-- **Goal Tracking** — See if you're on pace to reach your savings goal.
-- **Refund Stretch** — Make financial-aid refunds last until your next income.
+No bank login. Cubbie never moves your money.
 
-### 💬 Example
+## Get started in 2 minutes
 
-> 🎟️ *"Can I afford this $300 concert ticket?"*
+1. **Install:** text this page's link to Cubbie and reply yes.
+2. **Copy** the form below and fill in what you can. Only the first 3 lines are needed.
+3. **Paste** it to Cubbie. That's it.
 
-PocketPilot looks at your money **today** and your goal **tomorrow** — then shows the real impact of that decision.
+```
+POCKETPILOT
 
-### 🔒 Simple & Private
+JUST THESE 3 TO START
+Checking balance: $____
+Next payday: ____
+Bills due before then (name, $, date):
+  - ____
+  - ____
 
-No bank login. No spreadsheets. No moving your money.
+ADD MORE FOR BETTER RESULTS (skip anything)
+Paycheck: $____ every ____
+Rent or other bills after payday: ____
+Money I will not touch: $____
+Credit card or loans (balance, minimum, due date): ____
+Savings goal (what, $ amount, by when, saved so far): ____
+Put toward the goal each month: $____
+Morning text time: ____ am
 
-Just tell PocketPilot what you're working with, and it helps you make a smarter decision.
+WANT CUBBIE TO CHECK YOUR EMAIL? (optional, money emails only)
+Yes or no: ____
+Which accounts: ____
+What times: ____
 
----
+THINKING OF BUYING SOMETHING OR PLANNING A TRIP? (optional)
+What and how much: ____
+```
 
-### ✈️ PocketPilot
-**Your money has a destination. Stay on course.**
+> Never put account numbers, card numbers, or passwords in the form.
+
+## Try it
+
+- "Can I afford a $300 concert ticket?"
+- "My school refund just hit."
+- "Help me plan a December trip to Hawaii."
+
+## Good to know
+
+Cubbie asks before it checks your email or saves anything, and it tells you when a number is an estimate. PocketPilot is budgeting math, not professional financial advice.
